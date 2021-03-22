@@ -1,3 +1,17 @@
+# Dependency directories
 /node_modules
+
+# Directory for generated libs 
 /lib
+
+# Output of task 2
 *.txt
+
+# VS code workspaces
+*.code-workspace
+
+# DS Store mac OS configurations
+.DS_Store
+
+# dotenv environment variables file
+.env
