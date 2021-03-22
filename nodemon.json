@@ -1,0 +1,9 @@
+{
+    "restartable": "rs",
+    "ignore": [".git", "node_modules/", "lib/"],
+    "watch": ["src/"],
+    "execMap": {
+      "js": "npm run build && node"
+    },
+    "ext": "js,json"
+}
